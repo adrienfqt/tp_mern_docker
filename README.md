@@ -13,6 +13,7 @@ une fois dans le bon répertoire de travail /front. Il faut lancer la commande  
 
 ![image](https://github.com/user-attachments/assets/99fca28c-95ea-4ff5-92da-87cbea5233b7)
 
+## Lancement de tous les conteneurs 
 
 ![image](https://github.com/user-attachments/assets/16c07104-456f-40da-94c9-f471384a3063)
 
