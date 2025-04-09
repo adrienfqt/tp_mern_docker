@@ -1,10 +1,15 @@
 services:
     front:
+      build:
+        context: ./front
       image: "mern-frontend"
       ports:
           - "8080:80"
     back:
-      image: "mern-backend"
+      build:
+        context: ./back
+      image: mern-backend
+      container_name: backend
       ports:
           - "8081:81"
     mongo:
