@@ -17,4 +17,8 @@ une fois dans le bon répertoire de travail /front. Il faut lancer la commande  
 
 ![image](https://github.com/user-attachments/assets/16c07104-456f-40da-94c9-f471384a3063)
 
+## Docker compose
+
+L'ajout d'un fichier docker compose permet de déployer notre application en local
+
 
